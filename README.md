@@ -1,2 +1,2 @@
 # hello-world
-just fucking another repository
+trying to make first repository
